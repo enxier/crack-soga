@@ -1,5 +1,6 @@
 # crack-soga-v2ray
  A cracked version of soga v2ray backend
+ forked from RManLuo/crack-soga-v2ray
 
 > 破解版可能存在各种未知的风险，请自行判断后使用，本人不对使用本软件产生的各种后果负责。
 
@@ -7,7 +8,7 @@
 
 [soga 后端是一个同时支持 v2ray、Trojan、Shadowsocks 的后端，社区版最高支持88用户，优化了长时间运行的内存占用。](https://github.com/sprov065/soga)
 
-# 破解二进制文件下载地址：[release](https://github.com/RManLuo/crack-soga-v2ray/releases)
+# 破解二进制文件下载地址：[release](https://github.com/enxier/crack-soga/releases)
 
 # 使用教程
 
@@ -22,7 +23,7 @@
 ## 简单安装
 
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/RManLuo/crack-soga-v2ray/master/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/enxier/crack-soga/master/install.sh)
 ```
 
 ## Docker安装
