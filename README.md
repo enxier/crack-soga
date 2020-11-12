@@ -23,7 +23,7 @@
 ## 简单安装
 
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/enxier/crack-soga/master/install.sh)
+bash < <(curl -Ls https://raw.githubusercontent.com/enxier/crack-soga/main/install.sh)
 ```
 
 ## Docker安装
