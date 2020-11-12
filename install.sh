@@ -163,7 +163,7 @@ install_soga() {
     echo "soga update x.x.x - 更新 soga 指定版本"
     echo "soga install      - 安装 soga"
     echo "soga uninstall    - 卸载 soga"
-    echo "soga version      - 查看 soga 版本v"
+    echo "soga version      - 查看 soga 版本"
     echo "------------------------------------------"
 }
 
